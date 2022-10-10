@@ -1,2 +1,2 @@
-# paintduduzin
+# paint
 my paint
